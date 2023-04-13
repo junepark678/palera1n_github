@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/commit-activity/w/palera1n/palera1n.svg" alt="Commits">
   </a>
   <a href="https://github.com/palera1n/palera1n/actions/workflows/build.yml" target="_blank">
-  <img src="https://img.shields.io/github/actions/workflow/status/palera1n/palera1n/build-darwin"
+  <img src="https://img.shields.io/github/actions/workflow/status/palera1n/palera1n/build.yml"
   <a>
 </p>
 
